@@ -1,0 +1,25 @@
+.imagens {
+    position: relative;
+}
+.imagem {
+    margin-left: 1px;
+    margin-right: 10px;
+    padding-bottom: 0%;
+    padding-top: 1px;
+    padding-left: 1px;
+    max-width: 100%;
+    width: 50%;
+    margin-inline: -2px;
+}
+
+h1, h2, h3 {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    color: #eee;
+    
+}
+
+footer {
+    background: grey;
+}

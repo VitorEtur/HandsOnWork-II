@@ -1,0 +1,154 @@
+<!DOCTYPE html> <!--  É uma "informação" para o navegador sobre qual tipo de documento esperar -->
+<html lang="pt-br">
+<!-- Declarando idioma  -->
+
+<head>
+    <!-- elemento providencia informações gerais (metadados) sobre  document, incluindo seu título e links para scripts e folhas de estilos -->
+    <meta charset="UTF-8"> <!-- O atributo especifica a codificação do caractere para o documento HTML -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/main.css">
+    <!-- A tag define a relação entre o documento atual e um recurso externo. -->
+    <link rel="icon" type="imagem/png" href="https://i.imgur.com/LduDv2s.png?1" />
+    <!-- Usada para adicionar um ícone ao site -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <!-- Usado para conectar a uma CDN (rede de distribuição de conteúdo) -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> 
+    <!-- Usado para trazer uma fonte externa ao site-->
+    <link rel="stylesheet" href="./css/imagens.css"> <!-- Arquivo externo usado para ajustar as imagens -->
+    <link rel="stylesheet" href="./css/subir.css">
+    <title>Crispim Fotografias</title>
+    <!-- define o título do documento, mostrado na barra de título de um navegador ou na aba da página -->
+</head>
+
+<body>
+    <!-- representa o conteúdo de um documento HTML -->
+    <header class="Menu">
+        <!-- Cabeçalho com classe -->
+        <!-- a classe é usado para especificar uma classe para um elemento HTML -->
+        <main>
+            <!-- define o conteúdo principal dentro do <body> -->
+            <div class="header1">
+                <!-- <div> é um container genérico para conteúdo de fluxo -->
+                <div class="Logo">
+                    <a href="#"><img src="./img/logo2.png" /></a>
+                    <!-- O elemento <a> com o atributo href cria-se uma hiperligação nas páginas web, arquivos, endereços de emails, ligações na mesma página ou endereços na URL -->
+                </div>
+                <div class="Rede-Social">
+                    <ul>
+                        <!-- representa uma lista de itens sem ordem rígida -->
+                        <li><a href="https://www.instagram.com/_thecrispim/" target="_blank"><img
+                                    src="./img/InstagramWhite.png" /></a></li>
+                        <!-- <li> é usado para representar um item que faz parte de uma lista -->
+                    </ul>
+                </div>
+            </div>
+        </main>
+    </header>
+    <main class="coluna menu3">
+        <div class="header2">
+            <div class="menu2">
+                <!-- Divisória do menu de atalhos do website -->
+                <ul class="menuinicial">
+                    <li><a href="#">Página Inicial</a></li> <!-- redirecionara para a página inicial -->
+                    <li><a href="#fotos">Fotos</a></li> <!-- redireciona para as fotos -->
+                    <li><a href="#contato">Contato</a></li> <!-- informações para contato -->
+                </ul>
+            </div>
+        </div>
+    </main>
+    <div class="coluna">
+        <div class="slide">
+            <!-- Divisória dos slides -->
+            <img src="./img/bannerslide1.png" /> <!-- <img> representa a inserção de imagem no documento -->
+            <img src="./img/bannerslide2.png" /> <!-- Imagens que aparecerão nos slides -->
+            <img src="./img/bannerslide3.png" />
+        </div>
+        <div id="fotos" class="imagens">
+            <!-- Imagens que apareção no corpo do site -->
+            <img class="imagem" src="./img/IMG_5744.jpg">
+            <img class="imagem" src="./img/IMG_5750.jpg">
+            <img class="imagem" src="./img/IMG_5240.jpg">
+            <img class="imagem" src="./img/IMG_5278.jpg">
+            <img class="imagem" src="./img/IMG_4853.jpg">
+            <img class="imagem" src="./img/IMG_3588.jpg">
+            <img class="imagem" src="./img/IMG_4719.jpg">
+            <img class="imagem" src="./img/IMG_5506.jpg">
+            <img class="imagem" src="./img/IMG_2414.jpg">
+            <img class="imagem" src="./img/IMG_5806.jpg">
+        
+
+            <div id="voltarTopo">
+                <!-- Usado para adicionar um ícone de atalho para retornar ao topo do site -->
+                <a href="#" id="subir">▲</a>
+            </div>
+            <footer id="contato">
+                <!-- Usado para criar o rodapé da página -->
+                <div class="box2">
+                    <!-- Usado para criar seções do rodapé -->
+                    <ul class="nav2">
+                        <img src="img/profile.png">
+                        <li>
+                            Jeremias Crispim
+                        </li>
+                        <li>
+                            Cursando Análise e Desenvolvimento de Sistemas na Universidade do Vale Itajaí.
+                        </li>
+                    </ul>
+                </div>
+                <div class="box1">
+                <!-- Usado para criar seções do rodapé -->
+                    <ul class="nav1">
+                        <img src="img/calendar.png"/>
+                        <li>
+                            Escolha seu horário e entre em contato conosco!
+                        </li>
+                        <li>
+                            Contato
+                        </li>
+                        <li>
+                            WhatsApp: (47) 9 9776-7873
+                        </li>
+                        <li>
+                            E-mail: jeremias@yopmail.com
+                        </li>
+                        <li>
+                            Endereço: Rua ZzZ, nº 0 - Itajaí
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="box3">
+                    <!-- Usado para criar seções do rodapé -->
+                    <ul class="nav3">
+                        <img src="img/local.png">
+                        <li>
+                        Escolha o lugar das suas fotos! 
+                        </li>
+                        <li>
+                        Possuímos disponibilidade para viagem, basta escolher o seu lugar.
+                        </li>
+                    </ul>
+            </div>
+            </footer>
+            <address>
+            <!-- a tag address define as informações de contato do proprietário do documento -->
+                <div class="box4">
+                    © 2021 Crispim Fotografias. Todos os direitos reservados.
+                </div>
+            </address>
+            
+
+            <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+            <!-- O elemento contém instruções de script ou aponta para um arquivo de script externo através do atributo src -->
+            <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+            <script type="text/javascript"
+                src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+            <script type="text/javascript" src="./js/main.js"></script>
+
+
+
+</body>
+
+</html>
