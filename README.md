@@ -7,8 +7,7 @@
 
 > Protótipos
   
-> https://i.imgur.com/jHiD7h2.png 
+> https://i.imgur.com/jHiD7h2.png
+> https://i.imgur.com/tAWOowd.png
   
 ![GitHub Logo](https://i.imgur.com/jHiD7h2.png )
-
-![GitHub Logo](https://i.imgur.com/tAWOowd.png )
