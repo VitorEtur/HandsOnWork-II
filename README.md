@@ -11,4 +11,4 @@
   
 ![GitHub Logo](https://i.imgur.com/jHiD7h2.png )
 
-  <center>![GitHub Logo](https://i.imgur.com/tAWOowd.png )</center>
+![GitHub Logo](https://i.imgur.com/tAWOowd.png )
