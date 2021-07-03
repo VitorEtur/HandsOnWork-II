@@ -7,12 +7,12 @@
   
 > Portfólio
 
->https://vitoretur.github.io/HandsOnWork-II/
+https://vitoretur.github.io/HandsOnWork-II/
 
 > Protótipos
   
-> https://i.imgur.com/jHiD7h2.png
+https://i.imgur.com/jHiD7h2.png
   
-> https://i.imgur.com/tAWOowd.png
+https://i.imgur.com/tAWOowd.png
   
 ![GitHub Logo](https://i.imgur.com/jHiD7h2.png )
