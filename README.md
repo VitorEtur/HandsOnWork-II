@@ -11,8 +11,8 @@ https://vitoretur.github.io/HandsOnWork-II/
 
 > Protótipos
   
-https://i.imgur.com/jHiD7h2.png
+Desktop: https://i.imgur.com/jHiD7h2.png
   
-https://i.imgur.com/tAWOowd.png
+Mobile: https://i.imgur.com/tAWOowd.png
   
 ![GitHub Logo](https://i.imgur.com/jHiD7h2.png )
